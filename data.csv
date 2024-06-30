@@ -1,0 +1,128 @@
+id,annual_household_income,race,gender,middle_school_type,gpa,favorite_class,least_favorite_class,learning_about_shsat_date,shsat_practice_taken,shsat_private_tutor,dream_school,shsat_total_score
+10,120000,Asian,Female,Public,88.56,Math,Art,2023,true,true,Stuyvesant,524
+11,45000,Black,Male,Charter,79.34,Science,Math,2021,false,false,BTHS,298
+12,98000,Latino,Female,Private,91.23,History,PE,2023,true,true,Brooklyn Latin,478
+13,72000,White,Female,Public,86.78,Music,History,2024,true,false,SIT,412
+14,54000,Native American,Male,Public,75.46,ELA,Science,2022,true,true,BTHS,356
+15,89000,Asian,Male,Public,93.11,Math,Art,2023,true,true,Stuyvesant,535
+16,62000,Latino,Female,Charter,81.65,Art,PE,2021,false,false,Brooklyn Latin,350
+17,105000,White,Male,Public,88.92,Science,Literature,2024,true,false,BTHS,490
+18,48000,Black,Female,Private,84.30,History,Math,2023,true,true,SIT,377
+19,87000,White,Female,Public,92.55,PE,History,2022,false,true,Stuyvesant,502
+20,63000,Asian,Male,Public,79.85,Math,Music,2021,true,true,Brooklyn Latin,415
+21,78000,Latino,Female,Charter,87.44,ELA,Art,2024,false,false,BTHS,398
+22,70000,White,Male,Public,91.17,History,PE,2023,true,true,SIT,479
+23,95000,Asian,Female,Public,89.69,Math,Literature,2024,true,false,BTHS,520
+24,54000,Black,Male,Private,85.21,Science,Math,2021,false,false,Brooklyn Latin,329
+25,76000,White,Female,Public,83.78,Art,History,2023,true,true,SIT,455
+26,74000,Latino,Female,Public,90.34,ELA,Science,2022,true,true,Stuyvesant,490
+27,63000,White,Male,Charter,85.17,Math,History,2023,true,true,BTHS,450
+28,56000,Black,Female,Public,78.65,Science,PE,2021,false,false,Brooklyn Latin,330
+29,84000,Asian,Female,Private,93.45,Math,Art,2023,true,false,SIT,505
+30,77000,White,Male,Public,87.23,History,Math,2024,true,true,BTHS,475
+31,62000,Latino,Male,Charter,82.11,Music,Science,2022,true,true,Stuyvesant,390
+32,88000,Asian,Female,Public,89.56,Math,PE,2023,true,true,Brooklyn Latin,470
+33,53000,Black,Male,Public,75.34,ELA,Math,2021,false,false,SIT,305
+34,91000,White,Female,Public,92.78,History,Science,2024,true,false,BTHS,520
+35,68000,Latino,Female,Charter,80.45,Art,History,2023,true,true,Stuyvesant,415
+36,74000,White,Male,Public,86.54,Science,PE,2022,false,false,Brooklyn Latin,455
+37,80000,Asian,Male,Public,91.34,Math,Music,2024,true,true,SIT,485
+38,56000,Black,Female,Private,83.21,History,Math,2023,true,true,BTHS,420
+39,92000,Latino,Female,Public,88.67,ELA,Science,2024,true,false,Stuyvesant,470
+40,63000,White,Male,Charter,85.11,Math,PE,2022,false,false,Brooklyn Latin,445
+41,81000,Asian,Female,Public,90.45,Science,Art,2023,true,true,SIT,505
+42,74000,Black,Male,Public,77.34,History,Math,2021,false,false,BTHS,320
+43,87000,White,Female,Public,92.11,Math,PE,2024,true,true,Stuyvesant,510
+44,67000,Latino,Male,Charter,81.34,Science,History,2023,true,true,Brooklyn Latin,400
+45,89000,Asian,Female,Private,93.67,Math,PE,2023,true,false,SIT,525
+46,58000,Black,Female,Public,79.11,History,Math,2022,false,false,BTHS,350
+47,82000,White,Male,Public,88.45,Math,Science,2024,true,true,Stuyvesant,480
+48,69000,Latino,Female,Charter,83.56,ELA,Art,2023,true,true,Brooklyn Latin,430
+49,74000,Asian,Male,Public,87.23,Science,Math,2024,true,false,SIT,475
+50,61000,Black,Male,Private,75.34,Math,History,2021,false,false,BTHS,340
+51,88000,White,Female,Public,91.67,Science,PE,2023,true,true,Stuyvesant,500
+52,62000,Latino,Female,Charter,84.45,History,Math,2022,true,true,Brooklyn Latin,410
+53,70000,Asian,Female,Public,89.34,Math,Science,2024,true,false,SIT,490
+54,54000,Black,Male,Public,76.23,ELA,Math,2021,false,false,BTHS,325
+55,82000,White,Female,Private,90.78,History,Art,2023,true,true,Stuyvesant,505
+56,69000,Latino,Male,Public,85.34,Math,PE,2024,true,true,Brooklyn Latin,455
+57,74000,Asian,Female,Charter,92.11,Science,Math,2022,true,false,SIT,520
+58,57000,Black,Female,Public,78.34,History,Math,2021,false,false,BTHS,335
+59,83000,White,Male,Public,88.56,Math,Science,2023,true,true,Stuyvesant,485
+60,61000,Latino,Female,Charter,82.11,ELA,History,2022,true,true,Brooklyn Latin,395
+61,89000,Asian,Male,Private,90.34,Math,Art,2024,true,false,SIT,510
+62,55000,Black,Female,Public,77.56,Science,Math,2021,false,false,BTHS,345
+63,81000,White,Female,Public,91.23,History,PE,2023,true,true,Stuyvesant,500
+64,64000,Latino,Male,Charter,85.34,Math,Science,2022,true,true,Brooklyn Latin,450
+65,87000,Asian,Female,Public,93.67,Science,Math,2024,true,false,SIT,530
+66,60000,Black,Male,Private,79.11,History,Math,2021,false,false,BTHS,350
+67,82000,White,Female,Public,88.34,Math,PE,2023,true,true,Stuyvesant,485
+68,67000,Latino,Male,Charter,83.78,ELA,History,2022,true,true,Brooklyn Latin,430
+69,89000,Asian,Female,Public,89.56,Science,Math,2024,true,false,SIT,510
+70,56000,Black,Male,Private,76.34,Math,History,2021,false,false,BTHS,330
+71,82000,White,Female,Public,91.67,History,PE,2023,true,true,Stuyvesant,505
+72,68000,Latino,Male,Charter,85.11,Math,Science,2022,true,true,Brooklyn Latin,455
+73,85000,Asian,Female,Public,92.34,Science,Math,2024,true,false,SIT,525
+74,59000,Black,Male,Public,78.11,History,Math,2021,false,false,BTHS,345
+75,81000,White,Female,Private,90.45,Math,PE,2023,true,true,Stuyvesant,495
+76,67000,Latino,Male,Public,84.23,Science,History,2022,true,true,Brooklyn Latin,420
+77,90000,Asian,Female,Charter,93.56,Math,Art,2024,true,false,SIT,530
+78,58000,Black,Male,Public,77.34,History,Math,2021,false,false,BTHS,340
+79,83000,White,Female,Public,89.67,Math,Science,2023,true,true,Stuyvesant,480
+80,65000,Latino,Male,Charter,83.45,ELA,Math,2022,true,true,Brooklyn Latin,400
+81,87000,Asian,Female,Public,91.78,Science,PE,2024,true,false,SIT,515
+82,54000,Black,Male,Private,75.67,Math,History,2021,false,false,BTHS,325
+83,82000,White,Female,Public,90.11,History,Science,2023,true,true,Stuyvesant,490
+84,67000,Latino,Male,Charter,86.34,Math,PE,2022,true,true,Brooklyn Latin,460
+85,88000,Asian,Female,Public,93.45,Science,Math,2024,true,false,SIT,530
+86,60000,Black,Male,Public,78.56,History,Math,2021,false,false,BTHS,350
+87,83000,White,Female,Private,91.23,Math,PE,2023,true,true,Stuyvesant,495
+88,66000,Latino,Male,Public,84.78,Science,History,2022,true,true,Brooklyn Latin,425
+89,89000,Asian,Female,Charter,92.56,Math,Art,2024,true,false,SIT,525
+90,57000,Black,Male,Public,79.34,History,Math,2021,false,false,BTHS,345
+91,81000,White,Female,Public,89.78,Math,Science,2023,true,true,Stuyvesant,485
+92,65000,Latino,Male,Charter,83.67,ELA,Math,2022,true,true,Brooklyn Latin,405
+93,90000,Asian,Female,Public,91.34,Science,PE,2024,true,false,SIT,515
+94,58000,Black,Male,Private,76.45,Math,History,2021,false,false,BTHS,330
+95,82000,White,Female,Public,90.56,History,Science,2023,true,true,Stuyvesant,490
+96,67000,Latino,Male,Charter,85.34,Math,PE,2022,true,true,Brooklyn Latin,455
+97,85000,Asian,Female,Public,93.11,Science,Math,2024,true,false,SIT,530
+98,56000,Black,Male,Public,78.34,History,Math,2021,false,false,BTHS,335
+99,83000,White,Female,Private,90.78,Math,Science,2023,true,true,Stuyvesant,495
+100,67000,Latino,Male,Charter,84.23,ELA,Math,2022,true,true,Brooklyn Latin,420
+115,89000,Asian,Female,Public,93.45,Science,Math,2024,true,false,SIT,530
+116,57000,Black,Male,Public,76.67,Math,History,2021,false,false,BTHS,330
+117,82000,White,Female,Public,91.23,History,Science,2023,true,true,Stuyvesant,495
+118,66000,Latino,Male,Charter,85.34,Math,PE,2022,true,true,Brooklyn Latin,450
+119,90000,Asian,Female,Public,92.67,Science,Math,2024,true,false,SIT,520
+120,58000,Black,Male,Private,77.23,History,Math,2021,false,false,BTHS,340
+121,81000,White,Female,Public,90.45,Math,Science,2023,true,true,Stuyvesant,485
+122,66000,Latino,Male,Charter,84.11,ELA,Math,2022,true,true,Brooklyn Latin,415
+123,88000,Asian,Female,Public,91.34,Science,PE,2024,true,false,SIT,510
+124,54000,Black,Male,Public,75.78,Math,History,2021,false,false,BTHS,325
+125,82000,White,Female,Private,89.67,History,Science,2023,true,true,Stuyvesant,480
+126,65000,Latino,Male,Charter,83.45,Math,PE,2022,true,true,Brooklyn Latin,410
+127,85000,Asian,Female,Public,92.78,Science,Math,2024,true,false,SIT,525
+128,57000,Black,Male,Public,76.34,History,Math,2021,false,false,BTHS,335
+129,82000,White,Female,Public,90.45,Math,Science,2023,true,true,Stuyvesant,490
+130,67000,Latino,Male,Charter,85.34,ELA,Math,2022,true,true,Brooklyn Latin,455
+131,90000,Asian,Female,Public,93.11,Science,PE,2024,true,false,SIT,530
+132,58000,Black,Male,Private,78.11,Math,History,2021,false,false,BTHS,350
+133,83000,White,Female,Public,91.23,History,Science,2023,true,true,Stuyvesant,500
+134,66000,Latino,Male,Charter,84.34,Math,PE,2022,true,true,Brooklyn Latin,425
+135,87000,Asian,Female,Public,92.67,Science,Math,2024,true,false,SIT,520
+136,55000,Black,Male,Public,77.56,History,Math,2021,false,false,BTHS,345
+137,81000,White,Female,Private,89.78,Math,Science,2023,true,true,Stuyvesant,485
+138,64000,Latino,Male,Charter,83.56,ELA,Math,2022,true,true,Brooklyn Latin,415
+139,88000,Asian,Female,Public,91.45,Science,PE,2024,true,false,SIT,510
+140,57000,Black,Male,Public,76.34,Math,History,2021,false,false,BTHS,330
+141,82000,White,Female,Public,90.23,History,Science,2023,true,true,Stuyvesant,490
+142,67000,Latino,Male,Charter,84.34,Math,PE,2022,true,true,Brooklyn Latin,420
+143,90000,Asian,Female,Public,92.78,Science,Math,2024,true,false,SIT,525
+144,55000,Black,Male,Private,77.45,History,Math,2021,false,false,BTHS,340
+145,83000,White,Female,Public,90.78,Math,Science,2023,true,true,Stuyvesant,485
+146,66000,Latino,Male,Charter,84.23,ELA,Math,2022,true,true,Brooklyn Latin,415
+147,87000,Asian,Female,Public,92.34,Science,Math,2024,true,false,SIT,520
+148,58000,Black,Male,Public,77.11,Math,History,2021,false,false,BTHS,335
+149,81000,White,Female,Private,90.23,History,Science,2023,true,true,Stuyvesant,490
+150,67000,Latino,Male,Charter,83.67,Math,PE,2022,true,true,Brooklyn Latin,410
